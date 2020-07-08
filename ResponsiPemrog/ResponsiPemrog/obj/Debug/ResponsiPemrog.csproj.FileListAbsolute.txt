@@ -1,0 +1,6 @@
+D:\19.11.2794\responsi1\ResponsiPemrog\ResponsiPemrog\bin\Debug\ResponsiPemrog.exe.config
+D:\19.11.2794\responsi1\ResponsiPemrog\ResponsiPemrog\bin\Debug\ResponsiPemrog.exe
+D:\19.11.2794\responsi1\ResponsiPemrog\ResponsiPemrog\bin\Debug\ResponsiPemrog.pdb
+D:\19.11.2794\responsi1\ResponsiPemrog\ResponsiPemrog\obj\Debug\ResponsiPemrog.csprojResolveAssemblyReference.cache
+D:\19.11.2794\responsi1\ResponsiPemrog\ResponsiPemrog\obj\Debug\ResponsiPemrog.exe
+D:\19.11.2794\responsi1\ResponsiPemrog\ResponsiPemrog\obj\Debug\ResponsiPemrog.pdb
